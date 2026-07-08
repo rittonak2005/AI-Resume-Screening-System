@@ -1,0 +1,24 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Environment Variables
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
+
+# Streamlit
+.streamlit/
+
+# Excel Reports
+*.xlsx
+
+# Operating System Files
+.DS_Store
+Thumbs.db
